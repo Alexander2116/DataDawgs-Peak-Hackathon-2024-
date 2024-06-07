@@ -1,5 +1,5 @@
 ## Generic
-This is a hackhaton hosted by PeakAI, Manchester. There are 3 tasks that are marked. The main data science project is end-to-end forecasting project.
+This is a hackathon hosted by PeakAI, Manchester. There are 3 tasks that are marked. The main data science project is end-to-end forecasting project.
 
 ## What is forecasting?
 It deals with uncertainty (it bad, something you cannot control). Forecasting is the art of passing judgment on the likehood. Prediction deals with estimating an outcome from unseen data, typically with no time acpect.
